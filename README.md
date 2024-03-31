@@ -43,6 +43,14 @@ Para ver os resultados e as produções criadas com o auxílio deste projeto, vo
 
 Este é um projeto aberto, e contribuições são bem-vindas! Se você tem ideias para melhorar as ferramentas, adicionar novas funcionalidades, ou quiser reportar bugs, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
+## Aprecie as Criações no Canal
+
+Para realmente entender o impacto das ferramentas disponibilizadas por este projeto, te convido a visitar e apreciar as músicas já criadas no meu canal do YouTube. Lá, você encontrará uma seleção cuidadosa de trilhas sonoras ideais para diversas ocasiões, todas produzidas com a ajuda deste projeto.
+
+**Visite o canal**: [CafeLabHub](https://www.youtube.com/@cafelabhub)
+
+Esta seção é dedicada a oferecer uma amostra direta do potencial criativo que nossas ferramentas podem desbloquear, fornecendo inspiração e ideias para suas próprias criações.
+
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo `LICENSE` para mais detalhes.
