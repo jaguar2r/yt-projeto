@@ -37,7 +37,7 @@ Após a instalação, você pode executar os scripts incluídos no projeto para 
 
 ## Acompanhe os Resultados
 
-Para ver os resultados e as produções criadas com o auxílio deste projeto, você pode acompanhar o canal no YouTube [Inserir Nome do Canal Aqui]. Lá, você encontrará uma variedade de conteúdos editados utilizando as ferramentas e técnicas apresentadas neste projeto.
+Para ver os resultados e as produções criadas com o auxílio deste projeto, você pode acompanhar o canal [CafeLabHub](https://www.youtube.com/@cafelabhub) no YouTube. Lá, você encontrará uma variedade de conteúdos editados utilizando as ferramentas e técnicas apresentadas neste projeto.
 
 ## Contribua
 
